@@ -1,7 +1,7 @@
 Name
 ====
 
-openwaf_attack_response是OpenWAF的子模块，用于返回自定义攻击响应页面，有效防止信息泄露
+openwaf_attack_response是[openwaf](https://github.com/titansec/openwaf)的子模块，用于返回自定义攻击响应页面，有效防止信息泄露
 
 TODO
 ====
